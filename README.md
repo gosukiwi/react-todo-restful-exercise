@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An start project including an HTTP API mock. You have the following REST
+endpoints:
+
+- `/api/posts`
+- `/api/comments`
+- `/api/users`
 
 ## Available Scripts
 
